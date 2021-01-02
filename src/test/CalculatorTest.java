@@ -5,6 +5,8 @@ import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
 
+import main.Calculator;
+
 public class CalculatorTest {
 	
 	@Test
